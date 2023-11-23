@@ -34,7 +34,7 @@ body{
     text-decoration: underline;
 }
 
-#input{
+.input{
     width: 200px;
     height: 45px;
     text-align: center;
